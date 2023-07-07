@@ -1,0 +1,22 @@
+p{
+    font-family: 'Jost';
+    font-size: 25px;
+    font-weight: 300;
+    text-align: justify;
+}
+.verde{
+    color: green;
+    text-decoration: underline;
+}
+.rojo{
+    color: red;
+}
+.sub{
+    text-decoration: overline underline;
+}
+.b{
+    font-size: 25px;
+}
+.azul{
+    color: blue;
+}
