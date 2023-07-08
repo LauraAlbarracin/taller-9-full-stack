@@ -6,6 +6,7 @@
 
 <h2>Punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/jQSuHHzzQVeWHFsXltMdzj/Laura-Albarracin---Ejercicio-9?type=design&node-id=0%3A1&mode=design&t=39Q4toQcx0ZL2K4p-1">Link de Figma</a>
+<a href="file:///C:/Users/user/OneDrive/Documentos/Taller/TallerPagina/index.html">Link pagina</a>
 
 <h2>Punto 2: HTML</h2>
 <img src="./Public%201/Images/Html.png" alt="html">
