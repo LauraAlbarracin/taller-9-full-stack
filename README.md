@@ -19,3 +19,13 @@
 <h2>Punto 5</h2>
 
 <img src="./Public%201/Images/Punto%205.png.jpeg">
+
+<h2>Punto 6</h2>
+
+<img src="./Public 1/Images/Punto 6.jpeg">
+
+<h2>Punto 7-8</h2>
+<img src="./Public 1/Images/Punto 7-8.jpeg">
+
+<h2>Punto 9</h2>
+<img src="./Public 1/Images/Punto 9.jpeg">
